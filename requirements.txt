@@ -3,4 +3,6 @@ pandas
 numpy
 matplotlib
 scikit-learn
-sqlalchemygit add .
+sqlalchemy
+joblib
+openpyxl
