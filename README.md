@@ -48,7 +48,7 @@ This system allows businesses to:
 ## 🚀 Run Project
 
 ```bash
-streamlit run app.py
+https://smart-inventory-forecasting-system.streamlit.app/
 ```
 
 ---
